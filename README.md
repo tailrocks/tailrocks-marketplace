@@ -1,6 +1,6 @@
 # tailrocks-marketplace
 
-Claude Code plugin marketplace for Tailrocks tools.
+Claude Code plugin marketplace for tailrocks tools.
 
 ## Installation
 

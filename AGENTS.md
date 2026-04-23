@@ -8,7 +8,7 @@ to software distribution metadata.
 
 ## Hard Rules
 
-- Only add plugin sources intentionally trusted by Tailrocks.
+- Only add plugin sources intentionally trusted by tailrocks.
 - Treat any plugin `source.url` change as a trust boundary change.
 - Never commit credentials.
 - Keep `.claude-plugin/marketplace.json` parseable JSON.

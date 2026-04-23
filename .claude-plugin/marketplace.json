@@ -1,10 +1,10 @@
 {
   "name": "tailrocks-marketplace",
   "metadata": {
-    "description": "Tailrocks Claude Code plugins for Rust engineering and developer workflows"
+    "description": "tailrocks Claude Code plugins for Rust engineering and developer workflows"
   },
   "owner": {
-    "name": "Tailrocks",
+    "name": "tailrocks",
     "url": "https://github.com/tailrocks"
   },
   "plugins": [
