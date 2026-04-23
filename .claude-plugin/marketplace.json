@@ -1,0 +1,21 @@
+{
+  "name": "tailrocks-marketplace",
+  "metadata": {
+    "description": "Tailrocks Claude Code plugins for Rust engineering and developer workflows"
+  },
+  "owner": {
+    "name": "Tailrocks",
+    "url": "https://github.com/tailrocks"
+  },
+  "plugins": [
+    {
+      "name": "rust-best-practices",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tailrocks/rust-best-practices.git"
+      },
+      "description": "Rust engineering skills for writing, reviewing, refactoring, and documenting idiomatic Rust code",
+      "version": "0.1.0"
+    }
+  ]
+}
